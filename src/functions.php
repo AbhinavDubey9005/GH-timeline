@@ -1,4 +1,5 @@
 <?php
+// UNIQUE TEST COMMENT FOR GITHUB COMPARISON
 
 /**
  * Generate a 6-digit numeric verification code.
